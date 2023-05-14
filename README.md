@@ -3,6 +3,8 @@ Histogram App README FILE
 
 This project contains the source code for a React application that displays a histogram of word counts from a text file.
 
+For components code and other codes go to the master branch
+
 ## Components
 
 The project consists of the following components:
