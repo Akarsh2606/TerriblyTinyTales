@@ -25,7 +25,7 @@ The project uses the following libraries and plugins:
 
 To run the application locally, follow these steps:
 
-1. Clone the repository: `git clone <repository-url>`
+1. Clone the repository: `git clone https://github.com/Akarsh2606/TerriblyTinyTales.git
 2. Install the dependencies: `npm install`
 3. Start the development server: `npm start`
 4. Open the application in your browser at `http://localhost:3000`
