@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Histogram App README FILE
 
 This project contains the source code for a React application that displays a histogram of word counts from a text file.
@@ -29,3 +30,6 @@ To run the application locally, follow these steps:
 2. Install the dependencies: `npm install`
 3. Start the development server: `npm start`
 4. Open the application in your browser at `http://localhost:3000`
+=======
+# TerriblyTinyTales
+>>>>>>> 20a2861a7605115d14f181a1b16e90d563cd9ae3
